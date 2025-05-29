@@ -31,9 +31,7 @@
             "cobrar_Intereses": true,
             "pje_Intereses": 2.00,
             "pje_Iva_Intereses": 0.00,
-            "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
+            "cobrarInteresesPorFechaVencimiento": true
         },
         {
             "referencia": "0000470000000003",
@@ -67,8 +65,7 @@
             "pje_Intereses": 0.00,
             "pje_Iva_Intereses": 0.00,
             "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
+            "usuario_Modifico": "EMPATIA"
         },
         {
             "referencia": "0000510000000004",
@@ -101,9 +98,7 @@
             "cobrar_Intereses": false,
             "pje_Intereses": 0.00,
             "pje_Iva_Intereses": 0.00,
-            "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
+            "cobrarInteresesPorFechaVencimiento": true
         },
         {
             "referencia": "0000510000000004",
@@ -136,9 +131,7 @@
             "cobrar_Intereses": true,
             "pje_Intereses": 2.00,
             "pje_Iva_Intereses": 0.00,
-            "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
+            "cobrarInteresesPorFechaVencimiento": true
         },
         {
             "referencia": "0000500000000007",
@@ -171,44 +164,7 @@
             "cobrar_Intereses": true,
             "pje_Intereses": 2.00,
             "pje_Iva_Intereses": 0.00,
-            "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
-        },
-        {
-            "referencia": "0000500000000007",
-            "idUnico_factura": "502505A",
-            "formaRecaudo": "Contrato",
-            "consecutivo": 163,
-            "codTipoCartera": "FV",
-            "prefijo": "FE",
-            "nroDocumento": 70,
-            "dcto_Ref": "",
-            "contrato": "50",
-            "direccion_Inmueble": "CR 7 C NORTE 2 X",
-            "tipo_dcto": 31,
-            "nro_Id": "7",
-            "nombre_Tercero": "OFICINA SAS",
-            "apellido_Tercero": "",
-            "email_Tercero": "OF@CORREO.COM",
-            "celular_Tercero": "5555555",
-            "fecha_Elaboracion": "2025-05-26",
-            "fecha_cartera": "2025-05-01",
-            "fechaVencimiento": "2025-05-26",
-            "fechaVctoZonapagos": "2025-06-30",
-            "codConcepto": "115",
-            "nombre_Concepto": "ADMINISTRACION PROPIA",
-            "valor": 150000.00,
-            "valor_Es_Iva": false,
-            "detalle": "ADMINISTRACION PROPIA",
-            "periodoTexto": "",
-            "pagado": false,
-            "cobrar_Intereses": true,
-            "pje_Intereses": 2.00,
-            "pje_Iva_Intereses": 0.00,
-            "cobrarInteresesPorFechaVencimiento": true,
-            "usuario_Modifico": "EMPATIA",
-            "fecha_Modificacion": "2025-05-26T08:42:33"
+            "cobrarInteresesPorFechaVencimiento": true
         }
     ]
 }
